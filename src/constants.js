@@ -6,4 +6,5 @@ export const DB_USER = '';
 export const DB_PASSWORD = '';
 export const DB_HOST = '';
 
-
+// Adicione sua chave secreta JWT aqui
+export const JWT_SECRET_KEY = '';
